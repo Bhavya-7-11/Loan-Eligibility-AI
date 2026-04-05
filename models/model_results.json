@@ -1,0 +1,37 @@
+{
+  "Random Forest": {
+    "accuracy": 0.9595,
+    "precision": 0.9557,
+    "recall": 0.9595,
+    "f1_score": 0.9539,
+    "cv_score": 0.9599
+  },
+  "Naive Bayes": {
+    "accuracy": 0.8355,
+    "precision": 0.7688,
+    "recall": 0.8355,
+    "f1_score": 0.8007,
+    "cv_score": 0.829
+  },
+  "Logistic Regression": {
+    "accuracy": 0.5675,
+    "precision": 0.6557,
+    "recall": 0.5675,
+    "f1_score": 0.6066,
+    "cv_score": 0.5423
+  },
+  "Decision Tree": {
+    "accuracy": 0.9545,
+    "precision": 0.9564,
+    "recall": 0.9545,
+    "f1_score": 0.9554,
+    "cv_score": 0.9515
+  },
+  "Gradient Boosting": {
+    "accuracy": 0.959,
+    "precision": 0.9545,
+    "recall": 0.959,
+    "f1_score": 0.9555,
+    "cv_score": 0.9565
+  }
+}
