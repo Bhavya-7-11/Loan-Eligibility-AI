@@ -1,28 +1,7 @@
 # 🏦 Loan Guard AI
 
-## 📁 Folder Name
-Call your folder: `loan_guard_ai`
-You can save it **anywhere** on your computer — Desktop, Documents, wherever you like.
 
----
 
-## ✅ What to Put in the Folder BEFORE Running
-
-When you create the folder, manually put these files inside it:
-
-```
-loan_guard_ai/          ← your folder (save anywhere)
-│
-├── generate_data.py    ← put this in
-├── eda.py              ← put this in
-├── train_model.py      ← put this in
-├── app.py              ← put this in
-└── requirements.txt    ← put this in
-```
-
-That's all. Nothing else needed to start.
-
----
 
 ## ▶️ Run Order — Step by Step
 
@@ -48,7 +27,6 @@ python train_model.py
 streamlit run app.py
 ```
 
----
 
 ## 📂 What Gets Created Automatically
 
